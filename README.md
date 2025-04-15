@@ -1,4 +1,4 @@
-# Bai4_Cua_Dat_Nha
+# Bai4_Của_Đạt_Nha
 # HQTCSDL_Đặng_Đình_Đạt_truy vấn thông tin
 
 bai tap 4: (sql server)
