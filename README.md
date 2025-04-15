@@ -1,4 +1,4 @@
-![Screenshot 2025-04-15 065916](https://github.com/user-attachments/assets/70e6815c-258b-4061-ab56-d07e531de68e)# Bai4_Cua_Dat_Nha
+# Bai4_Cua_Dat_Nha
 # HQTCSDL_Đặng_Đình_Đạt_truy vấn thông tin
 
 bai tap 4: (sql server)
@@ -22,7 +22,7 @@ Gợi ý:
   
 
 deadline: 15/4/2025
-# ---------------------------------------BÀI LÀM-----------------------------------
+# ----------------------------------BÀI LÀM----------------------------------
 Ảnh 1:  
 Tạo cơ sở dữ liệu có tên là BaiTap3(đã sửa thành BaiTap4 rùi nha nhầm tí thui) và chọn 1 vị trí lưu mình mong muốn.  
 ![Screenshot 2025-03-28 153438](https://github.com/user-attachments/assets/e2286be3-222a-4f55-8aaf-c5035969c860)  
